@@ -21,6 +21,31 @@
       { "name": "OSSForAll/I-AM-CONTRIBUTOR", "url": "https://github.com/OSSForAll/I-AM-CONTRIBUTOR" }
     ],
     "linkedin": "mrpunyapal"
-  }
+  },
+{
+  "github": "Dave-Priyanshu",
+  "name": "Priyanshu Dave",
+  "category": "Developer",
+  "intro": "I build tools that help developers, freelancers, and students create and launch their portfolios quickly without dealing with hosting or complex setups.",
+  "techStack": ["PHP", "Laravel", "JavaScript", "MySQL", "Tailwind CSS"],
+  "packages": [
+    {
+      "name": "buildmyfolio",
+      "url": "https://buildmyfolio.in/",
+      "registry": "custom"
+    }
+  ],
+  "website": "https://buildmyfolio.in/",
+  "twitter": "yourhandle",
+  "blog": "https://dev.to/yourhandle",
+  "youtube": "https://youtube.com/@yourchannel",
+  "linkedin": "yourhandle",
+  "openSource": [
+    {
+      "name": "-",
+      "url": "https://github.com/Dave-Priyanshu"
+    }
+  ]
+}
 ]
 
